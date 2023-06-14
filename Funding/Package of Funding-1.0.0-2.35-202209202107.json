@@ -1,0 +1,2753 @@
+{
+    "package": {
+        "id": "Ekc83mKqdkg",
+        "name": "Package of Funding",
+        "user": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        },
+        "module": {
+            "id": "hsPx3nZkBiK",
+            "name": "Funding",
+            "instance": "http://localhost:8080",
+            "department": {
+                "id": "mKF51KQAVWu",
+                "name": "Malaria MD Developer"
+            }
+        },
+        "created": "2022-09-20T20:07:56.398Z",
+        "deleted": false,
+        "version": "1.0.0",
+        "description": "",
+        "dhisVersion": "2.35",
+        "lastUpdated": "2022-09-20T20:08:07.235Z",
+        "lastUpdatedBy": {
+            "id": "TZFikjf5oXD",
+            "name": "Barnabas MD Developer"
+        }
+    },
+    "dataSets": [
+        {
+            "id": "kG5W60f92PZ",
+            "name": "REP - FUND - Annual Funding",
+            "mobile": false,
+            "created": "2022-09-20T19:45:34.311",
+            "version": 1,
+            "favorite": false,
+            "formType": "DEFAULT",
+            "sections": [],
+            "favorites": [],
+            "shortName": "Annual Funding",
+            "expiryDays": 0,
+            "indicators": [],
+            "legendSets": [],
+            "periodType": "Yearly",
+            "timelyDays": 15,
+            "displayName": "REP - FUND - Annual Funding",
+            "lastUpdated": "2022-09-20T19:47:13.087",
+            "skipOffline": false,
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "renderAsTabs": false,
+            "translations": [],
+            "dimensionItem": "kG5W60f92PZ",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "kG5W60f92PZ"
+                    },
+                    "dataElement": {
+                        "id": "RaGoFKgMhsc"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "kG5W60f92PZ"
+                    },
+                    "dataElement": {
+                        "id": "WK19GIAkO3M"
+                    }
+                },
+                {
+                    "dataSet": {
+                        "id": "kG5W60f92PZ"
+                    },
+                    "dataElement": {
+                        "id": "peQGzZN3GYI"
+                    }
+                }
+            ],
+            "displayFormName": "REP - FUND - Annual Funding",
+            "interpretations": [],
+            "dataInputPeriods": [],
+            "displayShortName": "Annual Funding",
+            "dimensionItemType": "REPORTING_RATE",
+            "openFuturePeriods": 0,
+            "validCompleteOnly": false,
+            "renderHorizontally": false,
+            "notifyCompletingUser": false,
+            "dataElementDecoration": false,
+            "noValueRequiresComment": false,
+            "fieldCombinationRequired": false,
+            "openPeriodsAfterCoEndDate": 0,
+            "compulsoryFieldsCompleteOnly": false,
+            "compulsoryDataElementOperands": []
+        }
+    ],
+    "categories": [
+        {
+            "id": "K9NLOWwUUWu",
+            "name": "Funders",
+            "items": [
+                {
+                    "id": "gaanuV10DJo"
+                },
+                {
+                    "id": "hky9WnlXhpf"
+                },
+                {
+                    "id": "ewGIVoI1HXB"
+                },
+                {
+                    "id": "FDOvpyVxzZs"
+                },
+                {
+                    "id": "dgfSVm4ZXYJ"
+                },
+                {
+                    "id": "L3qvqAb9xaG"
+                },
+                {
+                    "id": "Ac2sI48Dz7C"
+                },
+                {
+                    "id": "KIuCQAbmmdj"
+                }
+            ],
+            "created": "2022-09-20T19:39:17.032",
+            "allItems": false,
+            "favorite": false,
+            "dimension": "K9NLOWwUUWu",
+            "favorites": [],
+            "shortName": "Funders",
+            "displayName": "Funders",
+            "lastUpdated": "2022-09-20T19:51:25.662",
+            "publicAccess": "--------",
+            "translations": [],
+            "dataDimension": true,
+            "dimensionType": "CATEGORY",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "categoryCombos": [
+                {
+                    "id": "S5nfFggAzza"
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "gaanuV10DJo"
+                },
+                {
+                    "id": "hky9WnlXhpf"
+                },
+                {
+                    "id": "ewGIVoI1HXB"
+                },
+                {
+                    "id": "FDOvpyVxzZs"
+                },
+                {
+                    "id": "dgfSVm4ZXYJ"
+                },
+                {
+                    "id": "L3qvqAb9xaG"
+                },
+                {
+                    "id": "Ac2sI48Dz7C"
+                },
+                {
+                    "id": "KIuCQAbmmdj"
+                }
+            ],
+            "displayFormName": "Funders",
+            "displayShortName": "Funders",
+            "dataDimensionType": "DISAGGREGATION"
+        }
+    ],
+    "dashboards": [
+        {
+            "id": "aSIflMP0oI0",
+            "name": "Funding",
+            "created": "2022-09-20T19:54:52.725",
+            "favorite": false,
+            "favorites": [],
+            "itemCount": 4,
+            "displayName": "Funding",
+            "lastUpdated": "2022-09-20T20:04:02.799",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "dashboardItems": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "I0h6a49e18w",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2022-09-20T20:04:02.758",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2022-09-20T20:04:02.799",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "MToWMheCaic",
+                        "type": "SINGLE_VALUE"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 0,
+                    "y": 29,
+                    "id": "oCVdXzTAxo3",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2022-09-20T20:04:02.758",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2022-09-20T20:04:02.799",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "kQDDlsdEGgz",
+                        "type": "COLUMN"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 40,
+                    "y": 0,
+                    "id": "YdAUUrV0fdF",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2022-09-20T20:04:02.759",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2022-09-20T20:04:02.799",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "dumNcRiQpkJ",
+                        "type": "COLUMN"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                },
+                {
+                    "x": 20,
+                    "y": 0,
+                    "id": "t8QsBuyPq2y",
+                    "type": "VISUALIZATION",
+                    "users": [],
+                    "width": 20,
+                    "access": {
+                        "read": true,
+                        "write": false,
+                        "delete": true,
+                        "manage": false,
+                        "update": false,
+                        "externalize": false
+                    },
+                    "height": 29,
+                    "created": "2022-09-20T20:04:02.759",
+                    "reports": [],
+                    "favorite": false,
+                    "favorites": [],
+                    "resources": [],
+                    "lastUpdated": "2022-09-20T20:04:02.799",
+                    "contentCount": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "visualization": {
+                        "id": "iAMM5qZIrYg",
+                        "type": "COLUMN"
+                    },
+                    "externalAccess": false,
+                    "attributeValues": [],
+                    "userGroupAccesses": [],
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0
+                }
+            ],
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Funding"
+        }
+    ],
+    "indicators": [
+        {
+            "id": "axKxSpp8HOp",
+            "name": "REP-FUND - Balance of Funds",
+            "created": "2022-09-20T20:01:47.165",
+            "dataSets": [],
+            "decimals": 2,
+            "favorite": false,
+            "favorites": [],
+            "numerator": "#{RaGoFKgMhsc} - #{peQGzZN3GYI}",
+            "shortName": "Balance of Funds",
+            "annualized": false,
+            "legendSets": [],
+            "denominator": "1",
+            "description": "Received funds - Spent Funds",
+            "displayName": "REP-FUND - Balance of Funds",
+            "lastUpdated": "2022-09-20T20:01:47.165",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "axKxSpp8HOp",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "REP-FUND - Balance of Funds",
+            "indicatorGroups": [],
+            "displayShortName": "Balance of Funds",
+            "dimensionItemType": "INDICATOR",
+            "displayDescription": "Received funds - Spent Funds",
+            "numeratorDescription": "Balance of Funds",
+            "denominatorDescription": "1",
+            "displayNumeratorDescription": "Balance of Funds",
+            "displayDenominatorDescription": "1"
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "WK19GIAkO3M",
+            "name": "REP-FUND-Expected Funds",
+            "created": "2022-09-20T19:42:31.029",
+            "favorite": false,
+            "formName": "Expected Funds",
+            "favorites": [],
+            "shortName": "Expected Funds",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP-FUND-Expected Funds",
+            "lastUpdated": "2022-09-20T19:42:57.769",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "WK19GIAkO3M",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "kG5W60f92PZ"
+                    },
+                    "dataElement": {
+                        "id": "WK19GIAkO3M"
+                    }
+                }
+            ],
+            "displayFormName": "Expected Funds",
+            "displayShortName": "Expected Funds",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "RaGoFKgMhsc",
+            "name": "REP-FUND-Received Funds",
+            "created": "2022-09-20T19:43:25.186",
+            "favorite": false,
+            "formName": "Received Funds",
+            "favorites": [],
+            "shortName": "Received Funds",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP-FUND-Received Funds",
+            "lastUpdated": "2022-09-20T19:44:26.551",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "RaGoFKgMhsc",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "kG5W60f92PZ"
+                    },
+                    "dataElement": {
+                        "id": "RaGoFKgMhsc"
+                    }
+                }
+            ],
+            "displayFormName": "Received Funds",
+            "displayShortName": "Received Funds",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        },
+        {
+            "id": "peQGzZN3GYI",
+            "name": "REP-FUND-Spent Funds",
+            "created": "2022-09-20T19:44:02.519",
+            "favorite": false,
+            "formName": "Spent Funds",
+            "favorites": [],
+            "shortName": "Spent Funds",
+            "valueType": "NUMBER",
+            "domainType": "AGGREGATE",
+            "legendSets": [],
+            "displayName": "REP-FUND-Spent Funds",
+            "lastUpdated": "2022-09-20T19:44:02.519",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "peQGzZN3GYI",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "optionSetValue": false,
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "dataSetElements": [
+                {
+                    "dataSet": {
+                        "id": "kG5W60f92PZ"
+                    },
+                    "dataElement": {
+                        "id": "peQGzZN3GYI"
+                    }
+                }
+            ],
+            "displayFormName": "Spent Funds",
+            "displayShortName": "Spent Funds",
+            "aggregationLevels": [],
+            "dataElementGroups": [],
+            "dimensionItemType": "DATA_ELEMENT",
+            "zeroIsSignificant": false
+        }
+    ],
+    "categoryCombos": [
+        {
+            "id": "S5nfFggAzza",
+            "name": "Funding Sources",
+            "created": "2022-09-20T19:40:00.093",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "skipTotal": false,
+            "categories": [
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "displayName": "Funding Sources",
+            "lastUpdated": "2022-09-20T19:49:36.199",
+            "publicAccess": "--------",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "categoryOptionCombos": [
+                {
+                    "id": "sJYd82YfkcL"
+                },
+                {
+                    "id": "SRCTnmfwdZ9"
+                },
+                {
+                    "id": "lPGb64MbnIe"
+                },
+                {
+                    "id": "oVQ7rUy0TMH"
+                },
+                {
+                    "id": "wiZ7gvFYhMq"
+                },
+                {
+                    "id": "aIwgsQxIuo3"
+                },
+                {
+                    "id": "jx68oFmZLZe"
+                },
+                {
+                    "id": "TtECTSh9vat"
+                }
+            ]
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "id": "kHy61PbChXr",
+            "name": "Numerator only (number)",
+            "factor": 1,
+            "number": true,
+            "created": "2015-03-23T01:42:43.716",
+            "favorite": false,
+            "favorites": [],
+            "displayName": "Numerator only (number)",
+            "lastUpdated": "2021-05-18T06:48:51.587",
+            "translations": [
+                {
+                    "value": "Numérateur seulement",
+                    "locale": "fr",
+                    "property": "NAME"
+                }
+            ],
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": []
+        }
+    ],
+    "visualizations": [
+        {
+            "id": "MToWMheCaic",
+            "name": "REP - FUND - Balance of Funds",
+            "rows": [],
+            "type": "SINGLE_VALUE",
+            "columns": [],
+            "created": "2022-09-20T20:03:12.736",
+            "filters": [],
+            "periods": [],
+            "colorSet": "DEFAULT",
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "fontStyle": {},
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "numberType": "VALUE",
+            "regression": false,
+            "subscribed": false,
+            "description": "Balance of funds (Received - Spent)",
+            "displayName": "REP - FUND - Balance of Funds",
+            "lastUpdated": "2022-09-20T20:03:12.736",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "rowDimensions": [],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "REP - FUND - Balance of Funds",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "indicator": {
+                        "id": "axKxSpp8HOp"
+                    },
+                    "dataDimensionItemType": "INDICATOR"
+                }
+            ],
+            "displayDescription": "Balance of funds (Received - Spent)",
+            "legendDisplayStyle": "FILL",
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "legendDisplayStrategy": "FIXED",
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        },
+        {
+            "id": "iAMM5qZIrYg",
+            "name": "REP-FUND - Expected Funds by Funding Sources",
+            "rows": [],
+            "type": "COLUMN",
+            "columns": [],
+            "created": "2022-09-20T19:54:22.934",
+            "filters": [],
+            "periods": [],
+            "colorSet": "DEFAULT",
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "fontStyle": {},
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "numberType": "VALUE",
+            "regression": false,
+            "subscribed": false,
+            "description": "Expected funds from various funding sources",
+            "displayName": "REP-FUND - Expected Funds by Funding Sources",
+            "lastUpdated": "2022-09-20T20:05:45.830",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "REP-FUND - Expected Funds by Funding Sources",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.oVQ7rUy0TMH",
+                        "name": "REP-FUND-Expected Funds Global Fund",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds Global Fund",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds Global Fund",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.oVQ7rUy0TMH",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds Global Fund",
+                        "displayShortName": "Expected Funds Global Fund",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "oVQ7rUy0TMH"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.wiZ7gvFYhMq",
+                        "name": "REP-FUND-Expected Funds Government",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds Government",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds Government",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.wiZ7gvFYhMq",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds Government",
+                        "displayShortName": "Expected Funds Government",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "wiZ7gvFYhMq"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.lPGb64MbnIe",
+                        "name": "REP-FUND-Expected Funds Other (non-bilateral)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds Other (non-bilateral)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds Other (non-bilateral)",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.lPGb64MbnIe",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds Other (non-bilateral)",
+                        "displayShortName": "Expected Funds Other (non-bilateral)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "lPGb64MbnIe"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.jx68oFmZLZe",
+                        "name": "REP-FUND-Expected Funds UKAID/DFID",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds UKAID/DFID",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds UKAID/DFID",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.jx68oFmZLZe",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds UKAID/DFID",
+                        "displayShortName": "Expected Funds UKAID/DFID",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "jx68oFmZLZe"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.SRCTnmfwdZ9",
+                        "name": "REP-FUND-Expected Funds UNICEF",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds UNICEF",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds UNICEF",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.SRCTnmfwdZ9",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds UNICEF",
+                        "displayShortName": "Expected Funds UNICEF",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "SRCTnmfwdZ9"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.sJYd82YfkcL",
+                        "name": "REP-FUND-Expected Funds USAID/PMI",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds USAID/PMI",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds USAID/PMI",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.sJYd82YfkcL",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds USAID/PMI",
+                        "displayShortName": "Expected Funds USAID/PMI",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "sJYd82YfkcL"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.TtECTSh9vat",
+                        "name": "REP-FUND-Expected Funds WHO",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds WHO",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds WHO",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.TtECTSh9vat",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds WHO",
+                        "displayShortName": "Expected Funds WHO",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "TtECTSh9vat"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "WK19GIAkO3M.aIwgsQxIuo3",
+                        "name": "REP-FUND-Expected Funds World Bank",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.863",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Expected Funds World Bank",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "WK19GIAkO3M"
+                        },
+                        "displayName": "REP-FUND-Expected Funds World Bank",
+                        "lastUpdated": "2022-09-20T20:08:06.863",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "WK19GIAkO3M.aIwgsQxIuo3",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Expected Funds World Bank",
+                        "displayShortName": "Expected Funds World Bank",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "aIwgsQxIuo3"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElement": {
+                        "id": "JTO2fTElFaG"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "RHGRbtOOcaO"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "wADnQY4bEz7"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "HncpOwVUoAM"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "sM07d2ndg9L"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "oGUF6JTeEXy"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "qzQBhoOgijN"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                },
+                {
+                    "dataElement": {
+                        "id": "pwzY9q43Nvk"
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT"
+                }
+            ],
+            "displayDescription": "Expected funds from various funding sources",
+            "legendDisplayStyle": "FILL",
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "legendDisplayStrategy": "FIXED",
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        },
+        {
+            "id": "dumNcRiQpkJ",
+            "name": "REP-FUND - Received Funds by Funding Sources",
+            "rows": [],
+            "type": "COLUMN",
+            "columns": [],
+            "created": "2022-09-20T19:54:22.934",
+            "filters": [],
+            "periods": [],
+            "colorSet": "DEFAULT",
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "fontStyle": {},
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "numberType": "VALUE",
+            "regression": false,
+            "subscribed": false,
+            "description": "Received funds from various funding sources",
+            "displayName": "REP-FUND - Received Funds by Funding Sources",
+            "lastUpdated": "2022-09-20T19:57:24.185",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "REP-FUND - Received Funds by Funding Sources",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.oVQ7rUy0TMH",
+                        "name": "REP-FUND-Received Funds Global Fund",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds Global Fund",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds Global Fund",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.oVQ7rUy0TMH",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds Global Fund",
+                        "displayShortName": "Received Funds Global Fund",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "oVQ7rUy0TMH"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.wiZ7gvFYhMq",
+                        "name": "REP-FUND-Received Funds Government",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds Government",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds Government",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.wiZ7gvFYhMq",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds Government",
+                        "displayShortName": "Received Funds Government",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "wiZ7gvFYhMq"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.lPGb64MbnIe",
+                        "name": "REP-FUND-Received Funds Other (non-bilateral)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds Other (non-bilateral)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds Other (non-bilateral)",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.lPGb64MbnIe",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds Other (non-bilateral)",
+                        "displayShortName": "Received Funds Other (non-bilateral)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "lPGb64MbnIe"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.jx68oFmZLZe",
+                        "name": "REP-FUND-Received Funds UKAID/DFID",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds UKAID/DFID",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds UKAID/DFID",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.jx68oFmZLZe",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds UKAID/DFID",
+                        "displayShortName": "Received Funds UKAID/DFID",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "jx68oFmZLZe"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.SRCTnmfwdZ9",
+                        "name": "REP-FUND-Received Funds UNICEF",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds UNICEF",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds UNICEF",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.SRCTnmfwdZ9",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds UNICEF",
+                        "displayShortName": "Received Funds UNICEF",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "SRCTnmfwdZ9"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.sJYd82YfkcL",
+                        "name": "REP-FUND-Received Funds USAID/PMI",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds USAID/PMI",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds USAID/PMI",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.sJYd82YfkcL",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds USAID/PMI",
+                        "displayShortName": "Received Funds USAID/PMI",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "sJYd82YfkcL"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.TtECTSh9vat",
+                        "name": "REP-FUND-Received Funds WHO",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds WHO",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds WHO",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.TtECTSh9vat",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds WHO",
+                        "displayShortName": "Received Funds WHO",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "TtECTSh9vat"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "RaGoFKgMhsc.aIwgsQxIuo3",
+                        "name": "REP-FUND-Received Funds World Bank",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.867",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Received Funds World Bank",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "RaGoFKgMhsc"
+                        },
+                        "displayName": "REP-FUND-Received Funds World Bank",
+                        "lastUpdated": "2022-09-20T20:08:06.867",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "RaGoFKgMhsc.aIwgsQxIuo3",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Received Funds World Bank",
+                        "displayShortName": "Received Funds World Bank",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "aIwgsQxIuo3"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                }
+            ],
+            "displayDescription": "Received funds from various funding sources",
+            "legendDisplayStyle": "FILL",
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "legendDisplayStrategy": "FIXED",
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        },
+        {
+            "id": "kQDDlsdEGgz",
+            "name": "REP-FUND - Spent Funds by Funding Sources",
+            "rows": [],
+            "type": "COLUMN",
+            "columns": [],
+            "created": "2022-09-20T19:54:22.934",
+            "filters": [],
+            "periods": [],
+            "colorSet": "DEFAULT",
+            "favorite": false,
+            "fontSize": "NORMAL",
+            "showData": true,
+            "topLimit": 0,
+            "colTotals": false,
+            "favorites": [],
+            "fontStyle": {},
+            "hideTitle": false,
+            "rowTotals": false,
+            "sortOrder": 0,
+            "hideLegend": false,
+            "numberType": "VALUE",
+            "regression": false,
+            "subscribed": false,
+            "description": "Spent funds from various funding sources",
+            "displayName": "REP-FUND - Spent Funds by Funding Sources",
+            "lastUpdated": "2022-09-20T19:58:54.911",
+            "subscribers": [],
+            "colSubTotals": false,
+            "hideSubtitle": false,
+            "optionalAxes": [],
+            "publicAccess": "--------",
+            "rowSubTotals": false,
+            "skipRounding": false,
+            "translations": [],
+            "yearlySeries": [],
+            "completedOnly": false,
+            "hideEmptyRows": false,
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "showHierarchy": false,
+            "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "parentGraphMap": {},
+            "regressionType": "NONE",
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "displayFormName": "REP-FUND - Spent Funds by Funding Sources",
+            "interpretations": [],
+            "relativePeriods": {
+                "thisDay": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "last3Days": false,
+                "last7Days": false,
+                "lastMonth": false,
+                "thisMonth": false,
+                "yesterday": false,
+                "last14Days": false,
+                "last30Days": false,
+                "last4Weeks": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "thisBiWeek": false,
+                "last12Weeks": false,
+                "last180Days": false,
+                "last3Months": false,
+                "last52Weeks": false,
+                "last6Months": false,
+                "lastBimonth": false,
+                "lastQuarter": false,
+                "thisBimonth": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last4BiWeeks": false,
+                "lastSixMonth": false,
+                "thisSixMonth": false,
+                "last4Quarters": false,
+                "last6BiMonths": false,
+                "weeksThisYear": false,
+                "last2SixMonths": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "biMonthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "lastFinancialYear": false,
+                "thisFinancialYear": false,
+                "last5FinancialYears": false
+            },
+            "reportingParams": {
+                "reportingPeriod": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "grandParentOrganisationUnit": false
+            },
+            "columnDimensions": [
+                "dx"
+            ],
+            "cumulativeValues": false,
+            "filterDimensions": [
+                "ou"
+            ],
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "categoryDimensions": [],
+            "dataDimensionItems": [
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.oVQ7rUy0TMH",
+                        "name": "REP-FUND-Spent Funds Global Fund",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds Global Fund",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds Global Fund",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.oVQ7rUy0TMH",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds Global Fund",
+                        "displayShortName": "Spent Funds Global Fund",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "oVQ7rUy0TMH"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.wiZ7gvFYhMq",
+                        "name": "REP-FUND-Spent Funds Government",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds Government",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds Government",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.wiZ7gvFYhMq",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds Government",
+                        "displayShortName": "Spent Funds Government",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "wiZ7gvFYhMq"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.lPGb64MbnIe",
+                        "name": "REP-FUND-Spent Funds Other (non-bilateral)",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds Other (non-bilateral)",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds Other (non-bilateral)",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.lPGb64MbnIe",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds Other (non-bilateral)",
+                        "displayShortName": "Spent Funds Other (non-bilateral)",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "lPGb64MbnIe"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.jx68oFmZLZe",
+                        "name": "REP-FUND-Spent Funds UKAID/DFID",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds UKAID/DFID",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds UKAID/DFID",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.jx68oFmZLZe",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds UKAID/DFID",
+                        "displayShortName": "Spent Funds UKAID/DFID",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "jx68oFmZLZe"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.SRCTnmfwdZ9",
+                        "name": "REP-FUND-Spent Funds UNICEF",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds UNICEF",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds UNICEF",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.SRCTnmfwdZ9",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds UNICEF",
+                        "displayShortName": "Spent Funds UNICEF",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "SRCTnmfwdZ9"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.sJYd82YfkcL",
+                        "name": "REP-FUND-Spent Funds USAID/PMI",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds USAID/PMI",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds USAID/PMI",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.sJYd82YfkcL",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds USAID/PMI",
+                        "displayShortName": "Spent Funds USAID/PMI",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "sJYd82YfkcL"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.TtECTSh9vat",
+                        "name": "REP-FUND-Spent Funds WHO",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds WHO",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds WHO",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.TtECTSh9vat",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds WHO",
+                        "displayShortName": "Spent Funds WHO",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "TtECTSh9vat"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                },
+                {
+                    "dataElementOperand": {
+                        "id": "peQGzZN3GYI.aIwgsQxIuo3",
+                        "name": "REP-FUND-Spent Funds World Bank",
+                        "access": {
+                            "read": true,
+                            "write": true,
+                            "delete": true,
+                            "manage": true,
+                            "update": true,
+                            "externalize": false
+                        },
+                        "created": "2022-09-20T20:08:06.870",
+                        "favorite": false,
+                        "favorites": [],
+                        "shortName": "Spent Funds World Bank",
+                        "legendSets": [],
+                        "dataElement": {
+                            "id": "peQGzZN3GYI"
+                        },
+                        "displayName": "REP-FUND-Spent Funds World Bank",
+                        "lastUpdated": "2022-09-20T20:08:06.870",
+                        "periodOffset": 0,
+                        "translations": [],
+                        "userAccesses": [],
+                        "dimensionItem": "peQGzZN3GYI.aIwgsQxIuo3",
+                        "externalAccess": false,
+                        "aggregationType": "SUM",
+                        "attributeValues": [],
+                        "displayFormName": "REP-FUND-Spent Funds World Bank",
+                        "displayShortName": "Spent Funds World Bank",
+                        "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                        "userGroupAccesses": [],
+                        "categoryOptionCombo": {
+                            "id": "aIwgsQxIuo3"
+                        }
+                    },
+                    "dataDimensionItemType": "DATA_ELEMENT_OPERAND"
+                }
+            ],
+            "displayDescription": "Spent funds from various funding sources",
+            "legendDisplayStyle": "FILL",
+            "attributeDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "showDimensionLabels": false,
+            "percentStackedValues": false,
+            "userOrganisationUnit": false,
+            "dataElementDimensions": [],
+            "legendDisplayStrategy": "FIXED",
+            "noSpaceBetweenColumns": false,
+            "organisationUnitLevels": [],
+            "itemOrganisationUnitGroups": [],
+            "programIndicatorDimensions": [],
+            "userOrganisationUnitChildren": false,
+            "dataElementGroupSetDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "userOrganisationUnitGrandChildren": false,
+            "organisationUnitGroupSetDimensions": []
+        }
+    ],
+    "categoryOptions": [
+        {
+            "id": "hky9WnlXhpf",
+            "code": "MAL_CO_GF",
+            "name": "Global Fund",
+            "created": "2014-02-02T17:41:42.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Global Fund",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Global Fund",
+            "lastUpdated": "2021-05-25T17:02:03.066",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "hky9WnlXhpf",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Global Fund",
+            "displayShortName": "Global Fund",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "JUrSAQzCcdY"
+                },
+                {
+                    "id": "oVQ7rUy0TMH"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "gaanuV10DJo",
+            "code": "MAL_Government",
+            "name": "Government",
+            "created": "2014-02-02T17:41:35.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Government",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Government",
+            "lastUpdated": "2021-05-25T17:02:03.067",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "gaanuV10DJo",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Government",
+            "displayShortName": "Government",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "hnvJqfq3h4w"
+                },
+                {
+                    "id": "wiZ7gvFYhMq"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "KIuCQAbmmdj",
+            "code": "MAL_CO_OTHER_NON_BILATERAL",
+            "name": "Other (non-bilateral)",
+            "created": "2014-02-02T17:42:25.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "Other (non-bilateral)",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "Other (non-bilateral)",
+            "lastUpdated": "2021-05-25T17:02:03.070",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "KIuCQAbmmdj",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "Other (non-bilateral)",
+            "displayShortName": "Other (non-bilateral)",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "lPGb64MbnIe"
+                },
+                {
+                    "id": "YEDLeJnrH7p"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "FDOvpyVxzZs",
+            "name": "UKAID/DFID",
+            "created": "2022-09-20T19:36:16.530",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "UKAID/DFID",
+            "categories": [
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "UKAID/DFID",
+            "lastUpdated": "2022-09-20T19:50:39.090",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "FDOvpyVxzZs",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "UKAID/DFID",
+            "displayShortName": "UKAID/DFID",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "jx68oFmZLZe"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "L3qvqAb9xaG",
+            "code": "MAL_CO_UNICEF",
+            "name": "UNICEF",
+            "created": "2014-02-02T17:43:17.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "UNICEF",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "UNICEF",
+            "lastUpdated": "2021-05-25T17:02:03.073",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "L3qvqAb9xaG",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "UNICEF",
+            "displayShortName": "UNICEF",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "SRCTnmfwdZ9"
+                },
+                {
+                    "id": "GlEQKeDX9u2"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "ewGIVoI1HXB",
+            "name": "USAID/PMI",
+            "created": "2022-09-20T19:35:54.289",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "USAID/PMI",
+            "categories": [
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "USAID/PMI",
+            "lastUpdated": "2022-09-20T19:50:15.155",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "ewGIVoI1HXB",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "USAID/PMI",
+            "displayShortName": "USAID/PMI",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "sJYd82YfkcL"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "Ac2sI48Dz7C",
+            "code": "MAL_WHO",
+            "name": "WHO",
+            "created": "2014-02-02T17:43:26.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "WHO",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "WHO",
+            "lastUpdated": "2021-05-25T17:02:03.073",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "Ac2sI48Dz7C",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "WHO",
+            "displayShortName": "WHO",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "RM7u41s5H10"
+                },
+                {
+                    "id": "TtECTSh9vat"
+                }
+            ],
+            "categoryOptionGroups": []
+        },
+        {
+            "id": "dgfSVm4ZXYJ",
+            "code": "MAL_CO_WORLD_BANK",
+            "name": "World Bank",
+            "created": "2014-02-02T17:43:07.000",
+            "favorite": false,
+            "favorites": [],
+            "isDefault": false,
+            "shortName": "World Bank",
+            "categories": [
+                {
+                    "id": "MaShSyRIODt"
+                },
+                {
+                    "id": "K9NLOWwUUWu"
+                }
+            ],
+            "legendSets": [],
+            "displayName": "World Bank",
+            "lastUpdated": "2021-05-25T17:02:03.073",
+            "periodOffset": 0,
+            "publicAccess": "--------",
+            "translations": [],
+            "dimensionItem": "dgfSVm4ZXYJ",
+            "lastUpdatedBy": {
+                "id": "xJY16SqZaCB",
+                "username": "arico",
+                "displayName": "Alexis RICO"
+            },
+            "externalAccess": false,
+            "attributeValues": [],
+            "displayFormName": "World Bank",
+            "displayShortName": "World Bank",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "categoryOptionCombos": [
+                {
+                    "id": "MDJzVdakYTa"
+                },
+                {
+                    "id": "aIwgsQxIuo3"
+                }
+            ],
+            "categoryOptionGroups": []
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "id": "oVQ7rUy0TMH",
+            "name": "Global Fund",
+            "created": "2022-09-20T19:40:00.209",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Global Fund",
+            "legendSets": [],
+            "displayName": "Global Fund",
+            "lastUpdated": "2022-09-20T19:40:00.209",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "oVQ7rUy0TMH",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "hky9WnlXhpf"
+                }
+            ],
+            "displayFormName": "Global Fund",
+            "displayShortName": "Global Fund"
+        },
+        {
+            "id": "wiZ7gvFYhMq",
+            "name": "Government",
+            "created": "2022-09-20T19:40:00.205",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Government",
+            "legendSets": [],
+            "displayName": "Government",
+            "lastUpdated": "2022-09-20T19:40:00.205",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "wiZ7gvFYhMq",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "gaanuV10DJo"
+                }
+            ],
+            "displayFormName": "Government",
+            "displayShortName": "Government"
+        },
+        {
+            "id": "lPGb64MbnIe",
+            "name": "Other (non-bilateral)",
+            "created": "2022-09-20T19:40:00.215",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "Other (non-bilateral)",
+            "legendSets": [],
+            "displayName": "Other (non-bilateral)",
+            "lastUpdated": "2022-09-20T19:40:00.215",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "lPGb64MbnIe",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "KIuCQAbmmdj"
+                }
+            ],
+            "displayFormName": "Other (non-bilateral)",
+            "displayShortName": "Other (non-bilateral)"
+        },
+        {
+            "id": "jx68oFmZLZe",
+            "name": "UKAID/DFID",
+            "created": "2022-09-20T19:40:00.211",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "UKAID/DFID",
+            "legendSets": [],
+            "displayName": "UKAID/DFID",
+            "lastUpdated": "2022-09-20T19:40:00.211",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "jx68oFmZLZe",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "FDOvpyVxzZs"
+                }
+            ],
+            "displayFormName": "UKAID/DFID",
+            "displayShortName": "UKAID/DFID"
+        },
+        {
+            "id": "SRCTnmfwdZ9",
+            "name": "UNICEF",
+            "created": "2022-09-20T19:40:00.213",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "UNICEF",
+            "legendSets": [],
+            "displayName": "UNICEF",
+            "lastUpdated": "2022-09-20T19:40:00.213",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "SRCTnmfwdZ9",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "L3qvqAb9xaG"
+                }
+            ],
+            "displayFormName": "UNICEF",
+            "displayShortName": "UNICEF"
+        },
+        {
+            "id": "sJYd82YfkcL",
+            "name": "USAID/PMI",
+            "created": "2022-09-20T19:40:00.210",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "USAID/PMI",
+            "legendSets": [],
+            "displayName": "USAID/PMI",
+            "lastUpdated": "2022-09-20T19:40:00.210",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "sJYd82YfkcL",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "ewGIVoI1HXB"
+                }
+            ],
+            "displayFormName": "USAID/PMI",
+            "displayShortName": "USAID/PMI"
+        },
+        {
+            "id": "TtECTSh9vat",
+            "name": "WHO",
+            "created": "2022-09-20T19:40:00.214",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "WHO",
+            "legendSets": [],
+            "displayName": "WHO",
+            "lastUpdated": "2022-09-20T19:40:00.214",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "TtECTSh9vat",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "Ac2sI48Dz7C"
+                }
+            ],
+            "displayFormName": "WHO",
+            "displayShortName": "WHO"
+        },
+        {
+            "id": "aIwgsQxIuo3",
+            "name": "World Bank",
+            "created": "2022-09-20T19:40:00.212",
+            "favorite": false,
+            "favorites": [],
+            "shortName": "World Bank",
+            "legendSets": [],
+            "displayName": "World Bank",
+            "lastUpdated": "2022-09-20T19:40:00.212",
+            "periodOffset": 0,
+            "translations": [],
+            "categoryCombo": {
+                "id": "S5nfFggAzza"
+            },
+            "dimensionItem": "aIwgsQxIuo3",
+            "lastUpdatedBy": {
+                "id": "TZFikjf5oXD",
+                "username": "Barnabas",
+                "displayName": "Barnabas MD Developer"
+            },
+            "externalAccess": false,
+            "ignoreApproval": false,
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "dgfSVm4ZXYJ"
+                }
+            ],
+            "displayFormName": "World Bank",
+            "displayShortName": "World Bank"
+        }
+    ]
+}
